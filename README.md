@@ -12,7 +12,8 @@ You will need to install the libraries `shapefile` and `shapely`. Both are avail
 # Usage
 
 Run the script from the command line, passing in two arguments: latitude and longitude. (No comma, please!)
-If neither argument is passed, it defaults to Fuji Caf√©near the Pearl Street Mall.
+
+If neither argument is passed, it defaults to Fuji Caf√ near the Pearl Street Mall.
 If the point is found to lie within any neighborhoods, then it will print metadata about the neighborhood (name, city, state, county, Region ID).
 
 ```
