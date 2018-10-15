@@ -22,6 +22,8 @@ If the point is found to lie within any neighborhoods, then it will print metada
 Neighborhood found: Whittier, City of Boulder, CO — Boulder County (Region ID 416094)
 ```
 
-# Features to build out
-Right now the script is configured to only search within the state of Colorado. It would be nice to search other states, too.
-Neighborhood shapefiles can be found on Zillow: https://www.zillow.com/howto/api/neighborhood-boundaries.htm
+# Upcoming Features
+* Right now the script is configured to only search within the state of Colorado. It would be nice to search other states, too.
+
+# References
+Neighborhood boundary files come from [Zillow](https://www.zillow.com/howto/api/neighborhood-boundaries.htm), and are used under the [Creative Commons license](https://creativecommons.org/licenses/by-sa/3.0/).
